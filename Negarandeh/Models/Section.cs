@@ -18,12 +18,6 @@ namespace Negarandeh.Models
         [StringLength(200)]
         public string Title_FA { get; set; }
 
-        [Required]
-        public string Body_EN { get; set; }
-
-        [Required]
-        public string Body_FA { get; set; }
-
         public int SeasonId { get; set; }
 
         public int? Index { get; set; }

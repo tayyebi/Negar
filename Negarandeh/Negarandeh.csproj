@@ -162,6 +162,7 @@
     <Compile Include="Models\Book.cs" />
     <Compile Include="Models\File.cs" />
     <Compile Include="Models\MainModel.cs" />
+    <Compile Include="Models\MySection.cs" />
     <Compile Include="Models\Person.cs" />
     <Compile Include="Models\Season.cs" />
     <Compile Include="Models\Section.cs" />
